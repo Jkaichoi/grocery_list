@@ -34,7 +34,7 @@ class ListForm extends Component {
           onChange={this.handleChange}
           // optional
           required 
-          placeholder="List title"
+          placeholder="List Item"
         />
         <input
           name="desc"
