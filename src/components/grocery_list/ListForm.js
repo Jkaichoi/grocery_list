@@ -41,9 +41,9 @@ class ListForm extends Component {
           value={desc}
           onChange={this.handleChange}
           required 
-          placeholder="List Description"
+          placeholder="Price"
         />
-        <button type="submit">Submit</button>
+        <button type="submit">Add</button>
       </form>
     )
   }
